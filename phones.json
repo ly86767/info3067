@@ -29,6 +29,16 @@
                 "QtyOnBackOrder": "5",
                 "Description": "The Google Pixel 5",
                 "Brand": "Google"
-        }
+        },
 
+        {
+                "ProductName": "Samsung Galaxy X",
+                "GraphicName": "samsung_galaxy_x.jpg",
+                "CostPrice": "499.99",
+                "MSRP": "599.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Samsung Galaxy X",
+                "Brand": "Samsung"
+        }
 ]
