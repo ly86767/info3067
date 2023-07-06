@@ -2,20 +2,20 @@
         {
                 "ProductName": "iPhone 8",
                 "GraphicName": "iphone_8.jpg",
-                "CostPrice": 499.99,
-                "MSRP": 599.99,
-                "QtyOnHand": 10,
-                "QtyOnBackOrder": 5,
+                "CostPrice": "499.99",
+                "MSRP": "599.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
                 "Description": "The iPhone 8",
                 "Brand": "iPhone"
         },
         {
                 "ProductName": "iPhone X",
                 "GraphicName": "iphone_x.jpg",
-                "CostPrice": 699.99,
-                "MSRP": 799.99,
-                "QtyOnHand": 10,
-                "QtyOnBackOrder": 5,
+                "CostPrice": "699.99",
+                "MSRP": "799.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
                 "Description": "The iPhone X",
                 "Brand": "iPhone"
         },
@@ -23,10 +23,10 @@
         {
                 "ProductName": "Google Pixel 5",
                 "GraphicName": "pixel_5.jpg",
-                "CostPrice": 399.99,
-                "MSRP": 499.99,
-                "QtyOnHand": 10,
-                "QtyOnBackOrder": 5,
+                "CostPrice": "399.99",
+                "MSRP": "499.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
                 "Description": "The Google Pixel 5",
                 "Brand": "Google"
         }
