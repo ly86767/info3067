@@ -1,5 +1,4 @@
 [
-        // Apple iPhone Phones
         {
                 "ProductName": "iPhone 8",
                 "GraphicName": "iphone_8.jpg",
@@ -51,7 +50,6 @@
                 "Brand": "Apple"
         },
 
-        // Google Pixel Phones
         {
                 "ProductName": "Google Pixel 3",
                 "GraphicName": "pixel_3.jpg",
@@ -103,7 +101,6 @@
                 "Brand": "Google"
         },
 
-        // Samsung Galaxy Phones
         {
                 "ProductName": "Samsung Galaxy S20",
                 "GraphicName": "galaxy_s20.jpg",
