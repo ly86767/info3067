@@ -32,13 +32,13 @@
         },
 
         {
-                "ProductName": "Samsung Galaxy X",
-                "GraphicName": "samsung_galaxy_x.jpg",
+                "ProductName": "Samsung Galaxy S21",
+                "GraphicName": "samsung_galaxy_s21.jpg",
                 "CostPrice": "499.99",
                 "MSRP": "599.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Samsung Galaxy X",
+                "Description": "The Samsung Galaxy S21",
                 "Brand": "Samsung"
         }
 ]
