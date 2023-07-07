@@ -1,4 +1,5 @@
 [
+        // Apple iPhone Phones
         {
                 "ProductName": "iPhone 8",
                 "GraphicName": "iphone_8.jpg",
@@ -6,8 +7,18 @@
                 "MSRP": "599.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The iPhone 8",
-                "Brand": "iPhone"
+                "Description": "The Apple iPhone 8",
+                "Brand": "Apple"
+        },
+        {
+                "ProductName": "iPhone 8 Plus",
+                "GraphicName": "iphone_8_plus.jpg",
+                "CostPrice": "599.99",
+                "MSRP": "699.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Apple iPhone 8 Plus",
+                "Brand": "Apple"
         },
         {
                 "ProductName": "iPhone X",
@@ -16,29 +27,131 @@
                 "MSRP": "799.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The iPhone X",
-                "Brand": "iPhone"
+                "Description": "The Apple iPhone X",
+                "Brand": "Apple"
+        },
+        {
+                "ProductName": "iPhone XS",
+                "GraphicName": "iphone_xs.jpg",
+                "CostPrice": "799.99",
+                "MSRP": "899.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Apple iPhone XS",
+                "Brand": "Apple"
+        },
+        {
+                "ProductName": "iPhone 11",
+                "GraphicName": "iphone_11.jpg",
+                "CostPrice": "899.99",
+                "MSRP": "999.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Apple iPhone 11",
+                "Brand": "Apple"
         },
 
+        // Google Pixel Phones
+        {
+                "ProductName": "Google Pixel 3",
+                "GraphicName": "pixel_3.jpg",
+                "CostPrice": "299.99",
+                "MSRP": "399.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Google Pixel 3",
+                "Brand": "Google"
+        },
+        {
+                "ProductName": "Google Pixel 4",
+                "GraphicName": "pixel_4.jpg",
+                "CostPrice": "399.99",
+                "MSRP": "499.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Google Pixel 4",
+                "Brand": "Google"
+        },
         {
                 "ProductName": "Google Pixel 5",
                 "GraphicName": "pixel_5.jpg",
-                "CostPrice": "399.99",
-                "MSRP": "499.99",
+                "CostPrice": "499.99",
+                "MSRP": "599.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
                 "Description": "The Google Pixel 5",
                 "Brand": "Google"
         },
+        {
+                "ProductName": "Google Pixel 6",
+                "GraphicName": "pixel_6.jpg",
+                "CostPrice": "599.99",
+                "MSRP": "699.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Google Pixel 6",
+                "Brand": "Google"
+        },
+        {
+                "ProductName": "Google Pixel 7",
+                "GraphicName": "pixel_7.jpg",
+                "CostPrice": "699.99",
+                "MSRP": "799.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Google Pixel 7",
+                "Brand": "Google"
+        },
 
+        // Samsung Galaxy Phones
+        {
+                "ProductName": "Samsung Galaxy S20",
+                "GraphicName": "galaxy_s20.jpg",
+                "CostPrice": "699.99",
+                "MSRP": "799.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Samsung Galaxy S20",
+                "Brand": "Samsung"
+        },
         {
                 "ProductName": "Samsung Galaxy S21",
-                "GraphicName": "samsung_galaxy_s21.jpg",
+                "GraphicName": "galaxy_s21.jpg",
+                "CostPrice": "799.99",
+                "MSRP": "899.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Samsung Galaxy S21",
+                "Brand": "Samsung"
+        },
+        {
+                "ProductName": "Samsung Galaxy S8",
+                "GraphicName": "galaxy_s8.jpg",
+                "CostPrice": "399.99",
+                "MSRP": "499.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Samsung Galaxy S8",
+                "Brand": "Samsung"
+        },
+        {
+                "ProductName": "Samsung Galaxy S9",
+                "GraphicName": "galaxy_s9.jpg",
                 "CostPrice": "499.99",
                 "MSRP": "599.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Samsung Galaxy S21",
+                "Description": "The Samsung Galaxy S9",
+                "Brand": "Samsung"
+        },
+        {
+                "ProductName": "Samsung Galaxy S10",
+                "GraphicName": "galaxy_s10.jpg",
+                "CostPrice": "599.99",
+                "MSRP": "699.99",
+                "QtyOnHand": "10",
+                "QtyOnBackOrder": "5",
+                "Description": "The Samsung Galaxy S10",
                 "Brand": "Samsung"
         }
 ]
