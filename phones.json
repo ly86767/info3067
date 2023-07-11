@@ -6,7 +6,7 @@
                 "MSRP": "599.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Apple iPhone 8",
+                "Description": "The iPhone 8 was a smartphone model released by Apple in September 2017. It served as the successor to the iPhone 7 and brought several improvements and new features to the iPhone lineup. The design of the iPhone 8 was similar to its predecessor, featuring a sleek and premium look with an aluminum and glass construction. It was available in three color options: Silver, Space Gray, and Gold.",
                 "Brand": "Apple"
         },
         {
@@ -16,7 +16,7 @@
                 "MSRP": "699.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Apple iPhone 8 Plus",
+                "Description": "The iPhone 8 Plus, released by Apple in September 2017, was an upgraded version of the iPhone 8 with a larger form factor and additional features. It shared a similar design to the iPhone 8, featuring a combination of glass and aluminum construction available in Silver, Space Gray, and Gold color options",
                 "Brand": "Apple"
         },
         {
@@ -26,7 +26,7 @@
                 "MSRP": "799.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Apple iPhone X",
+                "Description": "The iPhone X, released by Apple in November 2017, introduced a major redesign to the iPhone lineup. It featured an edge-to-edge 5.8-inch Super Retina display, Face ID facial recognition for secure unlocking, and the removal of the traditional home button in favor of intuitive gestures. The iPhone X was powered by Apple's A11 Bionic chip, offered a dual-camera system with Portrait Mode, and brought features like Animoji and wireless charging to the iPhone.",
                 "Brand": "Apple"
         },
         {
@@ -36,7 +36,7 @@
                 "MSRP": "899.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Apple iPhone XS",
+                "Description": "Released in September 2018, the iPhone XS built upon the design and features of the iPhone X. It featured a 5.8-inch Super Retina display, Face ID, and the A12 Bionic chip for improved performance and efficiency. The iPhone XS boasted an upgraded camera system, Smart HDR for better photos, and introduced the option for a larger variant with the iPhone XS Max.",
                 "Brand": "Apple"
         },
         {
@@ -46,7 +46,7 @@
                 "MSRP": "999.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Apple iPhone 11",
+                "Description": "Introduced in September 2019, the iPhone 11 was the successor to the iPhone XR. It featured a 6.1-inch Liquid Retina display, Apple's A13 Bionic chip, and dual cameras with an ultra-wide lens for expanded photographic capabilities. The iPhone 11 brought improvements in performance, camera quality, and battery life compared to its predecessors.",
                 "Brand": "Apple"
         },
 
@@ -57,7 +57,7 @@
                 "MSRP": "399.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Google Pixel 3",
+                "Description": "The Google Pixel 3, released in October 2018, showcased Google's focus on photography and software integration. It featured a 5.5-inch OLED display, a single rear camera with Google's computational photography prowess, and the power of Google Assistant. The Pixel 3 offered a pure Android experience, timely software updates, and exclusive software features like Call Screening and Night Sight.",
                 "Brand": "Google"
         },
         {
@@ -67,7 +67,7 @@
                 "MSRP": "499.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Google Pixel 4",
+                "Description": "Released in October 2019, the Google Pixel 4 built upon its predecessor's strengths. It featured a 5.7-inch or 6.3-inch Smooth Display with a 90Hz refresh rate, an improved dual-camera system, and introduced Motion Sense, enabling gesture-based interactions using radar technology. The Pixel 4 showcased Google's advancements in computational photography and delivered a seamless Android experience.",
                 "Brand": "Google"
         },
         {
@@ -77,27 +77,27 @@
                 "MSRP": "599.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Google Pixel 5",
+                "Description": "The Google Pixel 5, launched in October 2020, focused on delivering 5G connectivity, a polished user experience, and a more affordable price point. It featured a 6.0-inch OLED display, a dual-camera system with improved low-light capabilities, and a solid battery life. The Pixel 5 emphasized Google's software integration, offering a clean and feature-rich Android experience.",
                 "Brand": "Google"
         },
         {
-                "ProductName": "Google Pixel 6",
-                "GraphicName": "pixel_6.jpg",
-                "CostPrice": "599.99",
-                "MSRP": "699.99",
+                "ProductName": "Google Pixel 4a",
+                "GraphicName": "pixel_4a.jpg",
+                "CostPrice": "399.99",
+                "MSRP": "499.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Google Pixel 6",
+                "Description": "The Google Pixel 4a, released in August 2020, is a budget-friendly smartphone that packs impressive features and Google's signature software. It sports a 5.81-inch OLED display, providing sharp visuals in a compact form factor. The Pixel 4a excels in photography with its single 12.2-megapixel rear camera, utilizing Google's computational photography algorithms for stunning image quality.",
                 "Brand": "Google"
         },
         {
-                "ProductName": "Google Pixel 7",
-                "GraphicName": "pixel_7.jpg",
-                "CostPrice": "699.99",
-                "MSRP": "799.99",
+                "ProductName": "Google Pixel 3a",
+                "GraphicName": "pixel_3a.jpg",
+                "CostPrice": "299.99",
+                "MSRP": "399.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Google Pixel 7",
+                "Description": "The Google Pixel 3a, released in May 2019, offered a more affordable alternative to the Pixel 3 while maintaining key features. It featured a 5.6-inch OLED display, a single 12.2-megapixel rear camera with Night Sight, and Google's clean Android interface. The Pixel 3a prioritized camera performance and software enhancements, providing a compelling option for users seeking a reliable smartphone with an excellent camera at a more accessible price point.",
                 "Brand": "Google"
         },
 
@@ -108,7 +108,7 @@
                 "MSRP": "799.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Samsung Galaxy S20",
+                "Description": "The Samsung Galaxy S20, launched in February 2020, was part of Samsung's flagship smartphone series. It featured a 6.2-inch Dynamic AMOLED display with a high refresh rate, powerful camera capabilities, and a range of hardware advancements. The Galaxy S20 introduced features like 5G connectivity, a versatile triple-camera setup, and a large battery capacity, offering a premium Android experience.",
                 "Brand": "Samsung"
         },
         {
@@ -118,7 +118,7 @@
                 "MSRP": "899.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Samsung Galaxy S21",
+                "Description": "Released in January 2021, the Samsung Galaxy S21 continued the legacy of the flagship series. It offered a 6.2-inch Dynamic AMOLED display with an adaptive refresh rate, top-of-the-line processor options, and an impressive camera system with improved computational photography features. The Galaxy S21 showcased Samsung's design aesthetics, powerful hardware, and a variety of software features and ecosystem integrations.",
                 "Brand": "Samsung"
         },
         {
@@ -128,7 +128,7 @@
                 "MSRP": "499.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Samsung Galaxy S8",
+                "Description": "The Samsung Galaxy S8, introduced in April 2017, was a notable release for its time. It featured a 5.8-inch Quad HD+ Super AMOLED display with curved edges, a fingerprint sensor, and Samsung's virtual assistant, Bixby. The Galaxy S8 offered a capable camera, wireless charging, and Samsung's custom user interface on top of Android.",
                 "Brand": "Samsung"
         },
         {
@@ -138,7 +138,7 @@
                 "MSRP": "599.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Samsung Galaxy S9",
+                "Description": "Released in March 2018, the Samsung Galaxy S9 built upon the foundation of its predecessor. It featured a 5.8-inch Quad HD+ Super AMOLED display, an improved camera with variable aperture, and stereo speakers. The Galaxy S9 continued to offer features like water resistance, wireless charging, and Samsung's user interface enhancements.",
                 "Brand": "Samsung"
         },
         {
@@ -148,7 +148,7 @@
                 "MSRP": "699.99",
                 "QtyOnHand": "10",
                 "QtyOnBackOrder": "5",
-                "Description": "The Samsung Galaxy S10",
+                "Description": "The Samsung Galaxy S10, launched in March 2019, brought significant upgrades to the Galaxy S series. It featured a 6.1-inch Quad HD+ Dynamic AMOLED display, an ultrasonic fingerprint sensor embedded under the screen, and a versatile triple-camera system. The Galaxy S10 showcased Samsung's design innovations, powerful hardware, and a comprehensive set of features.",
                 "Brand": "Samsung"
         }
 ]
